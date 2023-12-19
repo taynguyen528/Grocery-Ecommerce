@@ -1,0 +1,21 @@
+{
+    "name": "GroceryEcommerce",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "sass": "sass scss:assets/css -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/taynguyen528/Grocery-Ecommerce.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/taynguyen528/Grocery-Ecommerce/issues"
+    },
+    "homepage": "https://github.com/taynguyen528/Grocery-Ecommerce#readme"
+}
