@@ -17,5 +17,8 @@
     "bugs": {
         "url": "https://github.com/taynguyen528/Grocery-Ecommerce/issues"
     },
-    "homepage": "https://github.com/taynguyen528/Grocery-Ecommerce#readme"
+    "homepage": "https://github.com/taynguyen528/Grocery-Ecommerce#readme",
+    "devDependencies": {
+        "sass": "^1.77.8"
+    }
 }
