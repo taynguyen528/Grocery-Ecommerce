@@ -39,9 +39,13 @@ select {
     padding: 0;
     font-family: inherit;
     color: inherit;
-    -webkit-tap-highlight-color: transparent;
     outline: none;
     border: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+input {
+    background: transparent;
 }
 
 .icon {
