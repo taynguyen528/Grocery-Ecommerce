@@ -38,7 +38,7 @@ Grocery-Ecommerce is a UI project for an e-commerce website, built using basic t
 
 7. Check out: Checkout page for selected products.
 
-   ![Check out Page](https://i.imgur.com/undefined.png)
+   ![Check out Page](https://imgur.com/MuHD6pF)
 
 8. Shipping: Page for selecting shipping methods.
 
